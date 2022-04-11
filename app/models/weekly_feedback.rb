@@ -1,0 +1,2 @@
+class WeeklyFeedback < ApplicationRecord
+end
